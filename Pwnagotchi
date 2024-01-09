@@ -1,0 +1,28 @@
+#Pwnagotchi
+
+This was expecially frustrating. 
+
+Hours where spent getting this working. At first with a 144LCD Hat. Then with a 2.13 Touch Epapper Hat. 
+
+I ordered the 2.13 Touch Epaper dispay and originally got a v3 screen. For the love of me I could not get this one to work. I ended up having it replaced by Amazon. 
+
+Replacment screen was exactly the same except V4 I coudl get this one to work however it refreshed every second instead of partial refreshes. (This would degrade the screen)
+
+Eventually I went back to the V3 screen and I finally found a display setting for the config.toml text that worked perfectly. 
+
+After adding and moving around some pluggins I finally got my pwnigotcha setup and running. I want the thank the endless reddit threads and github info for assisting me. 
+
+I want to say, people on reddit warned about getting specific parts becuase of the headache others can be. I did not listen...
+
+#Takeaways
+
+-Looking through the python files has definetly shed some light into python coding for me, as well as provide info on raspberry pi's and GPIO pins. 
+-Gave me a reason to try soldering  (GPIO Pins on Pi) I was not half bad. 
+-Insight into the workings on EInk displays as well. 
+-Deeper understanding of Wireless Networks and their security. 
+
+#Possible Up Next
+
+-Esp 32 Maurader Device
+-Flipper Zero (If I can persuade my wife, they are pricey) 
+
