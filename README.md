@@ -46,7 +46,6 @@ One unified game library across Steam, Lutris, Heroic, Bottles, and Flatpak — 
 ## 🔧 On the workbench
 
 - **Pi Monitor** — Raspberry Pi health dashboard: FastAPI server + Textual TUI client (uptime, battery, bandwidth, alerts)
-- **Pwnagotchi** — feeding the AI, collecting handshakes
 - **3D printing** — designing and printing practical fixes for things that were almost fine
 
 ---
