@@ -4,6 +4,10 @@
   You'll also see me as <strong>sir-francisdrake</strong> ⚓ — a nod to the <em>Uncharted</em> series. Every treasure hunter needs a questionable ancestor.
 </p>
 
+<p align="center">
+  <em>Sic parvis magna</em> — greatness from small beginnings.
+</p>
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">
