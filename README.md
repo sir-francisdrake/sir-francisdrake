@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./github-header-banner.png" alt="Header banner" width="100%" style="border-radius: 12px" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Welcome+to+my+corner+of+GitHub;Building+tools+for+Linux+gaming;Writing+launchers+for+everything+else;Tinkering+with+Raspberry+Pi+%26+Pwnagotchi;Sometimes+I+3D+print+things" alt="Typing SVG" />
 </a>
