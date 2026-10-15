@@ -1,4 +1,8 @@
-<h3 align="center">hey, I'm sir-francisdrake 👋</h3>
+<h3 align="center">hey, I'm Caiden Yates 👋</h3>
+
+<p align="center">
+  You'll also see me as <strong>sir-francisdrake</strong> ⚓ — a nod to the <em>Uncharted</em> series. Every treasure hunter needs a questionable ancestor.
+</p>
 
 <div align="center">
 
