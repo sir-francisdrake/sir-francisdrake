@@ -1,3 +1,5 @@
+<h3 align="center">hey, I'm sir-francisdrake 👋</h3>
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">
